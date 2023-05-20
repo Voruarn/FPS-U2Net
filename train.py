@@ -37,8 +37,7 @@ def get_argparser():
                         help="heads of BoT MHSA")
    
     parser.add_argument("--model", type=str, default='FPSU2Net',
-                     help='range:[u2net, u2netp, \
-                       FPSU2Net, FPSU2NetV2, FPSU2NetV3, FPSU2NetV4 ]')
+            help='range:[u2net, u2netp, FPSU2Net, FPSU2NetV2, FPSU2NetV3, FPSU2NetV4 ]')
     
     parser.add_argument("--threshold", type=float, default=0.6,
                      help='threshold to predict foreground')
