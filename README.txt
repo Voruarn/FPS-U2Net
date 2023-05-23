@@ -1,8 +1,9 @@
 This is the official repo for FPS-U2Net created 
-by Voruarn, from School of Computer Science, NUIST, Nanjing, China.
+by Yuxiang Fu, from School of Computer Science, NUIST, Nanjing, China.
 
 ## [FPS-U2Net: Combining the U2Netp and Transformer for Fire Point Segmentation in Remote Sensing Images]
-by Voruarn, from School of Computer Science, NUIST, Nanjing, China.
+by Wei Fang, Yuxiang Fu, Victor S. Sheng,
+from School of Computer Science, NUIST, Nanjing, China.
 
 
 ## Citation
