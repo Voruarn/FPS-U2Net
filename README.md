@@ -5,7 +5,7 @@ by Voruarn, from School of Computer Science, NUIST, Nanjing, China. </h1>
 <h3>Figure 1: Landsat8 composite images with different band combinations.</h3>
 <img src="imgs/BandsComp.png">
 <hr>
-<h3>The structure of the proposed FPS-U2Net.</h3>
+<h3>Figure 2:The structure of the proposed FPS-U2Net.</h3>
 <img src="imgs/FPSU2Net.png">
 
 
